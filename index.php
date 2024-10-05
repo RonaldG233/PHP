@@ -7,3 +7,5 @@
 <a href="operadores_aritmeticos.php">Operadores Aritmeticos</a>
 <a href="asignacion.php">Operadores de Asignacion</a>
 <a href="asignacion_por_referencias.php">Asignacion por referencias</a>
+<a href="operadores_de_comparacion.php">Operadores de Comparacion</a>
+<a href="operadores_logicos.php">Operadores Logicos </a>
