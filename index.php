@@ -9,3 +9,7 @@
 <a href="asignacion_por_referencias.php">Asignacion por referencias</a>
 <a href="operadores_de_comparacion.php">Operadores de Comparacion</a>
 <a href="operadores_logicos.php">Operadores Logicos </a>
+<a href="incremento_decremento.php">Incremento y Decremento  </a>
+<a href="condicionales_simples.php">Condicionales simples  </a>
+<a href="condicionales_dobles.php">Condicionales dobles  </a>
+<a href="switch-case.php">switch case  </a>
