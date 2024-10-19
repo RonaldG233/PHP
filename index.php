@@ -13,3 +13,5 @@
 <a href="condicionales_simples.php">Condicionales simples  </a>
 <a href="condicionales_dobles.php">Condicionales dobles  </a>
 <a href="switch-case.php">switch case  </a>
+<a href="bucle_while.php">Bucle while  </a>
+<a href="02-formularios/get.html">GET  </a>
